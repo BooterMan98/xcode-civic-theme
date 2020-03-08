@@ -2,7 +2,7 @@
     "name": "xcode-civic-theme",
     "displayName": "Xcode Dark Civic Theme",
     "description": "This theme takes the Xcode dark theme and merge it with its Civic Syntax Theme.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "BooterMan",
     "repository": "https://github.com/CsarMan/xcode-civic-theme",
     "engines": {

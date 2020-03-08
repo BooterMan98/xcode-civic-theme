@@ -1,7 +1,7 @@
 # README
-This theme is fusion between [smockle's *Xcode Default Theme*](https://marketplace.visualstudio.com/items?itemName=smockle.xcode-default-theme) extention and [Xavier Castro's *Civic*](https://marketplace.visualstudio.com/items?itemName=xavier-castro.civic) extention.
+This theme is a fusion between [smockle's *Xcode Default Theme*](https://marketplace.visualstudio.com/items?itemName=smockle.xcode-default-theme) extension and [Xavier Castro's *Civic*](https://marketplace.visualstudio.com/items?itemName=xavier-castro.civic) extension.
 # Preview 
-![Preview](https://github.com/CsarMan/xcode-civic-theme/assets/Preview.png)
+![Preview](https://github.com/CsarMan/xcode-civic-theme/raw/master/assets/preview.png)
 
 ## Full Xcode inmersion
 Following smockle recomendation, a more complete theme can be achieved by adding some settings to your `settings.json`.  
